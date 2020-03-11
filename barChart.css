@@ -1,0 +1,15 @@
+body {
+	background-color: #000;
+  color: white;
+	text-align: center;
+}
+
+svg {
+	background-color: black;
+}
+
+.tick line {
+	stroke: #bbb;
+	opacity: 0.5;
+	stroke-dasharray: 2,5;
+}
